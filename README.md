@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedelzubair
 - 👀 I’m interested in Java and database engnieering.
-- 🌱 I’m currently spring boot.
+- 🌱 I’m currently learning spring boot.
 - 💞️ I’m looking to collaborate on java spring boot projects.
 - 📫 How to reach me : visit https://ahmedelzubair.com/
 
